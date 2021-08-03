@@ -1,4 +1,4 @@
-# ReaPack Repository Template
+# d34dmeats Repository Template test
 
 A template for GitHub-hosted ReaPack repositories with automated
 [reapack-index](https://github.com/cfillion/reapack-index)
@@ -10,12 +10,14 @@ This will be the name shown in ReaPack.
 ```xml
 <index version="1" name="Name of your repository here">
 ```
+## linking is key
 
-Replace the contents of this file ([README.md](/README.md)).
-This will be the text shown when using ReaPack's "About this repository" feature.
+´´´
+https://github.com/D34dmeat/JSFX-Reapack/raw/master/index.xml
+´´´
 
-reapack-index looks for package files in subfolders.
-The folder tree represents the package categories shown in ReaPack.
+
+
 
 Each package file is expected to begin with a metadata header.
 See [Packaging Documentation](https://github.com/cfillion/reapack-index/wiki/Packaging-Documentation) on reapack-index's wiki.
