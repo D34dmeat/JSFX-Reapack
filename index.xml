@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<index version="1" name="d34dmeat reapack template test" commit="e1ccd17939f0f4d446668e6348eba17c267ea2e0">
+<index version="1" name="d34dmeat reapack template test" commit="3dc44ce73c534a2e05fba4b9a0e5908032f8bd83">
   <category name="Example">
     <reapack name="cfillion_Hello world.lua" type="script" desc="Hello world">
       <metadata>
@@ -18,6 +18,22 @@ Markdown
       </metadata>
       <version name="1.0" author="cfillion" time="2021-01-04T23:30:32Z">
         <source main="main">https://github.com/cfillion/reapack-repository-template/raw/58a3e39ba95bd0f35846aa1f39aa4cb2574295e1/Example/cfillion_Hello%20world.lua</source>
+      </version>
+    </reapack>
+  </category>
+  <category name="Testing">
+    <reapack name="this_test.jsfx" type="effect" desc="testing (d34dmeat)">
+      <metadata>
+        <description><![CDATA[{\rtf1\ansi\deff0{\fonttbl{\f0 \fswiss Helvetica;}{\f1 Courier;}}
+{\colortbl;\red255\green0\blue0;\red0\green0\blue255;}
+\widowctrl\hyphauto
+
+{\pard \ql \f0 \sa180 \li0 \fi0 this is a small test\par}
+}
+]]></description>
+      </metadata>
+      <version name="0.01" time="2021-08-03T05:57:25Z">
+        <source>https://github.com/D34dmeat/JSFX-Reapack/raw/3dc44ce73c534a2e05fba4b9a0e5908032f8bd83/Testing/this_test.jsfx</source>
       </version>
     </reapack>
   </category>
