@@ -12,9 +12,9 @@ This will be the name shown in ReaPack.
 ```
 ## linking is key
 
-´´´
+```
 https://github.com/D34dmeat/JSFX-Reapack/raw/master/index.xml
-´´´
+```
 
 
 
